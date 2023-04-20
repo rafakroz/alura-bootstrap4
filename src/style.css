@@ -3,3 +3,7 @@
     object-position: 0 80%;  /*mover a imagem no container*/
     height: 400px;
 }
+
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
+}
