@@ -1,5 +1,5 @@
 .imagem-carrossel {
-    object-fit: cover;
-    object-position: 0 80%;
+    object-fit: cover;   /*preencher o container, preservando o tamanho da imagem*/
+    object-position: 0 80%;  /*mover a imagem no container*/
     height: 400px;
 }
