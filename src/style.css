@@ -11,3 +11,12 @@
 .cor-especial {
     color: darkred;
 }
+
+.botao-cor {
+    background-color: darkred;
+    color: white;
+}
+
+.botao-borda {
+    border-color: darkred;
+}
