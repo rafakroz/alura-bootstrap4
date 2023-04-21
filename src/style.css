@@ -1,3 +1,8 @@
+.card-largura {
+    max-width: 18rem;
+    /* padding: 0; */
+}
+
 .imagem-carrossel {
     object-fit: cover;   /*preencher o container, preservando o tamanho da imagem*/
     object-position: 0 80%;  /*mover a imagem no container*/
@@ -6,6 +11,11 @@
 
 .fonte-titulo {
     font-family: 'Pacifico', cursive;
+}
+
+.shadow-titulo {
+    /* color: white;  */
+    text-shadow: black 0.1em 0.1em 0.2em;
 }
 
 .cor-especial {
@@ -17,6 +27,12 @@
     color: white;
 }
 
-.botao-borda {
+.cor-borda {
     border-color: darkred;
+}
+
+.card-posicao-img {
+    object-fit: cover;   /*preencher o container, preservando o tamanho da imagem*/
+    /* object-position: 0 80%; */
+    height: 200px;
 }
