@@ -36,3 +36,11 @@
     /* object-position: 0 80%; */
     height: 200px;
 }
+
+.footer-link {
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    text-decoration:underline;
+}
